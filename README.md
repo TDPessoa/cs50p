@@ -4,7 +4,7 @@
 
 These are the codes that I've written and submitted to [***CS50’s Introduction to Programming with Python***](https://cs50.harvard.edu/python/2022/), composed of online classes, slides, and problems to code. 
 
-The course gave access to a platform in conjunction with CodeSpaces and GitHub for code, check and submit files easily and via browser. 
+The course gave access to a platform in conjunction with CodeSpaces and GitHub to code, check and submit files easily and via browser. 
 
 ---
 
