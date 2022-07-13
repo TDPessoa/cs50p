@@ -8,6 +8,7 @@ The course gave access to a platform in conjunction with CodeSpaces and GitHub t
 
 ---
 
+
 Listed bellow there is a summary of the main pages and my submitted files:
 
 * [Week 0 - Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/)
