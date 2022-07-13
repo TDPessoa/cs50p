@@ -34,3 +34,11 @@ def main():
 
 
 main()
+
+"""This was the output of the build-in 'check50' function"""
+# :) interpreter.py exists
+# :) input of "1 + 1" yields output of 2.0
+# :) input of "2 - 3" yields output of -1.0
+# :) input of "2 * 2" yields output of 4.0
+# :) input of "50 / 5" yields output of 10.0
+# :) input of "3 / 2" yields output of 1.5

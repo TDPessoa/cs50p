@@ -24,3 +24,12 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+"""This was the output of the build-in 'check50' function"""
+# :) nutrition.py exists
+# :) input of apple yields output of 130
+# :) input of Avocado yields output of 50
+# :) input of Kiwifruit yields output of 90
+# :) input of pear yields output of 100
+# :) input of Sweet Cherries yields output of 100
+# :) nutrition.py ignores invalid input

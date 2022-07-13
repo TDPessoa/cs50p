@@ -14,3 +14,9 @@ def main():
 
 
 main()
+
+"""This was the output of the build-in 'check50' function"""
+# :) einstein.py exists
+# :) input of 1 yields output of 90000000000000000
+# :) input of 14 yields output of 1260000000000000000
+# :) input of 50 yields output of 4500000000000000000

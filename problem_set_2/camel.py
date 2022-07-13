@@ -32,3 +32,9 @@ def checker(letter):
 
 if __name__ == '__main__':
     main()
+
+"""This was the output of the build-in 'check50' function"""
+# :) camel.py exists
+# :) input of "name" yields output of "name"
+# :) input of "firstName" yields output of "first_name"
+# :) input of "preferredFirstName" yields output of "preferred_first_name"

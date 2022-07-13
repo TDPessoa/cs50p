@@ -17,3 +17,10 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+"""This was the output of the build-in 'check50' function"""
+# :) twttr.py exists
+# :) input of Twitter yields output of Twttr
+# :) input of "What's your name?" yields output of "Wht's yr nm?"
+# :) input of CS50 yields output of CS50
+# :) input of PYTHON yields output of PYTHN

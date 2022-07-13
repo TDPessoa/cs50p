@@ -29,3 +29,13 @@ def main():
 
 
 main()
+
+"""This was the output of the build-in 'check50' function"""
+# :) deep.py exists
+# :) input of 42 yields output of Yes
+# :) input of forty-two yields output of Yes
+# :) input of forty two yields output of Yes
+# :) input of FoRty TwO yields output of Yes
+# :) input of 42, with spaces on either side, yields output of Yes
+# :) input of 50 yields output of No
+# :) input of fifty yields output of No

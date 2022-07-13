@@ -28,3 +28,11 @@ def main():
 
 
 main()
+
+"""This was the output of the build-in 'check50' function"""
+# :) grocery.py exists
+# :) input of EOF halts program
+# :) input of "apple" and "banana" yields "1 APPLE 1 BANANA"
+# :) input of "strawberry" and "strawberry" yields "2 STRAWBERRY"
+# :) input of "mango", "sugar", and "mango" yields "2 MANGO 1 SUGAR"
+# :) input of "tortilla" and "sweet potato" yields "1 SWEET POTATO 1 TORTILLA"

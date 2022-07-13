@@ -13,3 +13,9 @@ def ___main___():
 
 
 ___main___()
+
+"""This was the output of the build-in 'check50' function"""
+# :) indoor.py exists
+# :) input of HELLO yields output of hello
+# :) input of THIS IS CS50 yields output of this is cs50
+# :) input of 50 yields output of 50

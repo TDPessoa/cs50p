@@ -43,3 +43,12 @@ def main():
             break
 
 main()
+
+"""This was the output of the build-in 'check50' function"""
+# :) taqueria.py exists
+# :) input of EOF halts program
+# :) input of "taco", "taco", and "tortilla salad" results in $14.00
+# :) input of "burrito", "bowl", and "nachos" results in $27.00
+# :) input of "Baja Taco", "Quesadilla", and "Super Burrito" results in $21.00
+# :) input of "Super quesadilla" results in $9.50
+# :) input of "burger" results in reprompt

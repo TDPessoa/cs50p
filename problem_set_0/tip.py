@@ -45,3 +45,9 @@ def percent_to_float(p):
 
 
 main()
+
+"""This was the output of the build-in 'check50' function"""
+# :) tip.py exists
+# :) input of $50.00 and 15% yields $7.50
+# :) input of $100.00 and 18% yields $18.00
+# :) input of $15.00 and 25% yields $3.75

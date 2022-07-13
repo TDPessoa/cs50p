@@ -35,3 +35,19 @@ def main():
 
 
 main()
+
+"""This was the output of the build-in 'check50' function"""
+# :) fuel.py exists
+# :) input of 3/4 yields output of 75%
+# :) input of 1/3 yields output of 33%
+# :) input of 2/3 yields output of 67%
+# :) input of 0/100 yields output of E
+# :) input of 1/100 yields output of E
+# :) input of 100/100 yields output of F
+# :) input of 99/100 yields output of F
+# :) input of 100/0 results in reprompt
+# :) input of 10/3 results in reprompt
+# :) input of three/four results in reprompt
+# :) input of 1.5/4 results in reprompt
+# :) input of 3/5.5 results in reprompt
+# :) input of 5-10 results in reprompt

@@ -25,3 +25,13 @@ def main():
 
 
 main()
+
+"""This was the output of the build-in 'check50' function"""
+# :) coke.py exists
+# :) coke accepts 25 cents
+# :) coke accepts 10 cents
+# :) coke accepts 5 cents
+# :) coke rejects invalid amount of cents
+# :) coke accepts continued input
+# :) coke terminates at 50 cents
+# :) coke provides correct change

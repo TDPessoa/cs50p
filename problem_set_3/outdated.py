@@ -68,3 +68,17 @@ def main():
 
 
 main()
+
+"""This was the output of the build-in 'check50' function"""
+# :) outdated.py exists
+# :) input of 9/8/1636 outputs 1636-09-08
+# :) input of September 8, 1636 outputs 1636-09-08
+# :) input of 10/9/1701 outputs 1701-10-09
+# :) input of October 9, 1701 outputs 1701-10-09
+# :) input of " 9/8/1636 " outputs 1636-09-08
+# :) input of 23/6/1912 results in reprompt
+# :) input of 10 December, 1815 results in reprompt
+# :) input of October/9/1701 results in reprompt
+# :) input of 1/50/2000 results in reprompt
+# :) input of December 80, 1980 results in reprompt
+# :) input of September 8 1636 results in reprompt
