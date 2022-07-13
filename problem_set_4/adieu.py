@@ -34,6 +34,7 @@ used a library called <inflect> but, the check50 function accepted the code bell
 #
 # without_imports()
 
+# >>> I know that it's a longer code and I'm "re-inventing the wheel", but I wanted to do it. :)
 '''Now, to the actual code'''
 
 
