@@ -27,7 +27,7 @@ Listed bellow there is a summary of the main pages and my submitted files:
     * [Answers](https://github.com/TDPessoa/CS50/tree/main/problem_set_4)
 * [Week 5 - Unit Tests](https://cs50.harvard.edu/python/2022/weeks/5/)
     * [problem_set_5](https://cs50.harvard.edu/python/2022/psets/5/)
-    * Not yet answered
+    * [Not fully answered](https://github.com/TDPessoa/CS50/tree/main/problem_set_5)
 * [Week 6 - File I/O](https://cs50.harvard.edu/python/2022/weeks/6/)
     * [problem_set_6](https://cs50.harvard.edu/python/2022/psets/6/)
     * Not yet answered

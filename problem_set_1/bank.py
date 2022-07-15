@@ -9,7 +9,6 @@ whitespace in the user’s greeting, and treat the user’s greeting case-insens
 
 def main():
     greeting = str(input('What was the greeting?')).strip().lower()
-    print(greeting[:4])
     if greeting[:5] == 'hello':
         print('$0')
     elif greeting[:5] != 'hello' and greeting[0] == 'h':
