@@ -43,7 +43,7 @@ def main():
 
 # Main Verifier
 def is_valid(plate):
-    if lenth_checker(plate) and two_first_checker(plate) and no_first_zero(plate) and \
+    if length_checker(plate) and two_first_checker(plate) and no_first_zero(plate) and \
             lasts_are_number_checker(plate) and no_special_chars(plate):
         return True
 
@@ -61,7 +61,7 @@ def two_first_checker(plate):
 
 
 # Minor Verifier n2. The plate has to have a minimum of 2 and a maximum of 6 characters.
-def lenth_checker(plate):
+def length_checker(plate):
     if (len(plate) >= 2) and (len(plate) <= 6):
         return True
 

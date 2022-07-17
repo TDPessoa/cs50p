@@ -45,3 +45,10 @@ def test_value_upper():
     assert value('HELLO') == 0
     assert value('HEY') == 20
     assert value('ONE') == 100
+
+"""This was the output of the build-in 'check50' function"""
+# :) test_bank.py exist
+# :) correct bank.py passes all test_bank checks
+# :) test_bank catches bank.py with incorrect values
+# :) test_bank catches bank.py without case-insensitivity
+# :) test_bank catches bank.py not allowing for entire phrase
