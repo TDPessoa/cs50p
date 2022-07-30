@@ -2,9 +2,24 @@
 
 ---
 
-These are the codes that I've written and submitted to [***CS50’s Introduction to Programming with Python***](https://cs50.harvard.edu/python/2022/), composed of online classes, slides, and problems to code. 
+These are codes that I've written and submitted to [***CS50’s Introduction to Programming with Python***](https://cs50.harvard.edu/python/2022/). 
 
-The course gave access to a platform in conjunction with CodeSpaces and GitHub to code, check and submit files easily and via browser. 
+The course gave access to a platform in conjunction with CodeSpaces and GitHub, enabling the students to code, check and submit files easily and via browser. 
+
+---
+
+Throughout the making of these files I'm rushing to do things, trying to submit the answers as soon as possible.
+
+The files may not be well commented and alike because: 
+- a. I'm in such a hurry that I forgot to comment something important; or
+- b. I don't find the comment relevant to the matter.
+
+Since I've already started my ['challenge'](https://github.com/TDPessoa/my_python_challenge_2022), I'll include these files as well.
+
+Keeping in mind that it will require new comments and explanations differing from the actual.
+
+If, in the future, I acknowledge that new comments are needed or old ones must be re-phrased, I'll return to this directory and create a final commit afterwards.
+ 
 
 ---
 
@@ -30,10 +45,10 @@ Listed bellow there is a summary of the main pages and my submitted files:
     * [Answers](https://github.com/TDPessoa/CS50/tree/main/problem_set_5)
 * [Week 6 - File I/O](https://cs50.harvard.edu/python/2022/weeks/6/)
     * [problem_set_6](https://cs50.harvard.edu/python/2022/psets/6/)
-    * [Not Fully Answered](https://github.com/TDPessoa/CS50/tree/main/problem_set_6)
+    * [Answers](https://github.com/TDPessoa/CS50/tree/main/problem_set_6)
 * [Week 7 - Regular Expressions](https://cs50.harvard.edu/python/2022/weeks/7/)
     * [problem_set_7](https://cs50.harvard.edu/python/2022/psets/7/)
-    * Not yet answered
+    * [Not Fully Answered](https://github.com/TDPessoa/CS50/tree/main/problem_set_7)
 * [Week 8 - Object-Oriented Programming](https://cs50.harvard.edu/python/2022/weeks/8/)
     * [problem_set_8](https://cs50.harvard.edu/python/2022/psets/8/)
     * Not yet answered
