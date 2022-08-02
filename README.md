@@ -48,7 +48,7 @@ Listed bellow there is a summary of the main pages and my submitted files:
     * [Answers](https://github.com/TDPessoa/CS50/tree/main/problem_set_6)
 * [Week 7 - Regular Expressions](https://cs50.harvard.edu/python/2022/weeks/7/)
     * [problem_set_7](https://cs50.harvard.edu/python/2022/psets/7/)
-    * [Not Fully Answered](https://github.com/TDPessoa/CS50/tree/main/problem_set_7)
+    * [Answers](https://github.com/TDPessoa/CS50/tree/main/problem_set_7)
 * [Week 8 - Object-Oriented Programming](https://cs50.harvard.edu/python/2022/weeks/8/)
     * [problem_set_8](https://cs50.harvard.edu/python/2022/psets/8/)
     * Not yet answered
