@@ -51,7 +51,7 @@ Listed bellow there is a summary of the main pages and my submitted files:
     * [Answers](https://github.com/TDPessoa/CS50/tree/main/problem_set_7)
 * [Week 8 - Object-Oriented Programming](https://cs50.harvard.edu/python/2022/weeks/8/)
     * [problem_set_8](https://cs50.harvard.edu/python/2022/psets/8/)
-    * [Not Fully Answered](https://github.com/TDPessoa/CS50/tree/main/problem_set_8)
+    * [Answers](https://github.com/TDPessoa/CS50/tree/main/problem_set_8)
 * [Week 9 - Et Cetera](https://cs50.harvard.edu/python/2022/weeks/9/)
     * [problem_set_9](https://cs50.harvard.edu/python/2022/psets/9/)
-    * Not yet answered
+    * [Answers](https://github.com/TDPessoa/CS50/tree/main/problem_set_9)

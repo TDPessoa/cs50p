@@ -1,0 +1,4 @@
+List of required libraries:
+1. random
+2. sys
+3. pytest
